@@ -17,3 +17,6 @@ class list {
     }
 };
 
+void addNode(){
+    
+}
