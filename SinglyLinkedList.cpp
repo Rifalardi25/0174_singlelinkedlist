@@ -109,5 +109,10 @@ class SingleLinkedlist
     }
 };
 
+int main()
+{
+    SingleLinkedlist mhs; 
+}
+
 
 
