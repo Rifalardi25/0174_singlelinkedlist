@@ -89,6 +89,18 @@ class list
         return true;
     }
 
-    
+    void traverse()
+    {
+        if (listEmpty())
+        {
+            cout << "\nList Kosong\n";
+        }
+        else
+        {
+            cout << "\nData didalam list adalah:\n";
+            Node *currentNode = START;
+            
+        }
+    }
 };
 
