@@ -9,5 +9,11 @@ class Node {
 };
 
 class list {
-    
+    Node *START;
+
+    public:
+    list() {
+        START = NULL;
+    }
 };
+
